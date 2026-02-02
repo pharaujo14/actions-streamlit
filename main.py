@@ -9,7 +9,7 @@ from selenium.common.exceptions import TimeoutException
 
 # Lista de URLs digitadas diretamente no código
 STREAMLIT_URLS = [
-    "https://centurydata-certificados.streamlit.app/",
+    "https://centurydata.streamlit.app/",
     "https://dashboard-dsr.streamlit.app/",
     "https://joy-force-system.streamlit.app/"
 ]
